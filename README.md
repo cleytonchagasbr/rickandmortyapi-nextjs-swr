@@ -6,8 +6,8 @@ Rick and Morty Api REST - Testando o SWR com Next .js
   <img width="544" height="320" src="https://github.com/cleytonchagasbr/imgs/blob/master/print-rickandmorey.png">
 </p>
 
-## Next.js
+### Next.js
 
-## Vercel - SWR
+### Vercel - SWR
 
-## Api usada - https://rickandmortyapi.com/documentation/#rest
+### Api usada - https://rickandmortyapi.com/documentation/#rest
