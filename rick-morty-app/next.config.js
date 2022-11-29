@@ -4,4 +4,17 @@ const nextConfig = {
   swcMinify: true,
 }
 
-module.exports = nextConfig
+const images = {
+  remotePatterns: [
+    {
+      protocol: 'https',
+      hostname: 'rickandmortyapi.com',
+      pathname: '/api/character/avatar/**',
+    },
+  ],
+}
+
+module.exports = {
+  nextConfig,
+  images,
+}
